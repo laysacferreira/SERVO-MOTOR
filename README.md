@@ -1,4 +1,4 @@
-# 🤖 Projeto: Sistema de Controle com OLED, Servo e LEDs (MicroPython)
+# 🤖 Sistema de Controle com OLED, Servo e LEDs (MicroPython)
 
 ## 🧠 Sobre o Projeto
 
